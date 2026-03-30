@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+ <asx:values>
+  <DEVC>
+   <CTEXT>ABAP Utilities Package</CTEXT>
+   <KORRFLAG>X</KORRFLAG>
+   <PDEVCLASS/>
+  </DEVC>
+ </asx:values>
+</asx:abap>
